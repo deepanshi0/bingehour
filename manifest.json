@@ -1,0 +1,27 @@
+{
+    "name": "BingeHour",
+    "description": "Get all the insights and details of your favourite webseries or movie in one click",
+    "version": "1.0",
+    "manifest_version": 3,
+    "author": "Deepanshi",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "BingeHour",
+        "default_icon": {
+            "16": "/images/16.png",
+            "24": "/images/24.png",
+            "32": "/images/32.png",
+            "48": "/images/64.png",
+            "128": "/images/128.png"
+          }
+
+    },
+    "icons": {
+        "16": "/images/16.png",
+            "24": "/images/24.png",
+            "32": "/images/32.png",
+            "48": "/images/64.png",
+            "128": "/images/128.png"
+      }
+    
+  }
